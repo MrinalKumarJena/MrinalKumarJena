@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Hello World! 🙋🏻<br><br>I'm Mrinal</h3>
+<h3 align="center">🙋🏻 Hello World! I'm Mrinal</h3>
 
 ###
 
