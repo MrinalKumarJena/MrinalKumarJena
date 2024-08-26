@@ -1,20 +1,14 @@
-<img align="left" height="210" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif"  />
+<br clear="both">
+
+<img align="left" height="240" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif"  />
 
 ###
 
-<div align="center">
-  <a href="https://www.instagram.com/__m.j__12/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="mrinaljena9@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
+<h1 align="left">Hello World! 🙋🏻<br><br>I'm Mrinal</h1>
 
 ###
 
-<h1 align="center">Hello World! 🙋🏻<br>I'm Mrinal</h1>
+<p align="left">A 3rd year B.Tech student diving headfirst into the world of code. I've got some tech knowledge and a lot of curiosity driving me forward 🚀</p>
 
 ###
 
@@ -24,7 +18,7 @@
 
 ###
 
-<p align="left">A 3rd year B.Tech student diving headfirst into the world of code. I've got some tech knowledge and a lot of curiosity driving me forward 🚀</p>
+<p align="left">🎮 I’m working on balancing my time between coding, gaming, and the occasional sleep.<br><br>⚡️ On a mission to learn as much as I can, one bug fix at a time.</p>
 
 ###
 
@@ -59,7 +53,19 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MrinalKumarJena&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=MrinalKumarJena&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=8&order=3" height="217" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/__m.j__12/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="mrinaljena9@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </div>
 
 ###
