@@ -1,14 +1,14 @@
 <br clear="both">
 
-<img align="left" height="240" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif"  />
+<img align="left" height="210" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif"  />
 
 ###
 
-<h1 align="left">Hello World! 🙋🏻<br><br>I'm Mrinal</h1>
+<h3 align="center">Hello World! 🙋🏻<br><br>I'm Mrinal</h3>
 
 ###
 
-<p align="left">A 3rd year B.Tech student diving headfirst into the world of code. I've got some tech knowledge and a lot of curiosity driving me forward 🚀</p>
+<p align="center">A 3rd year B.Tech student diving headfirst into the world of code. I've got some tech knowledge and a lot of curiosity driving me forward 🚀</p>
 
 ###
 
